@@ -23,10 +23,10 @@ description: Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me / Contact: "aboutme"
   Resources:
     - Learn Coding: "https://lambdaschool.com"
     - My GitHub: "https://github.com/gyhou"
+  About Me / Contact: "aboutme"
   nav-search: "search"
 #   Home: "https://georgehou.org"
 

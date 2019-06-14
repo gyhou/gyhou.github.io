@@ -2,12 +2,16 @@
 layout: page
 title: George Hou
 subtitle: Data Scientist
-bigimg1: /img/Mt.Hehuan_Taiwan.jpg
-bigimg2: /img/Lake_Wanaka_New Zealand.jpg
-bigimg3: /img/Norway_Lofoten_Islands.jpg
-bigimg4: /img/space.jpg
+bigimg:
+  - "/img/Mt.Hehuan_Taiwan.jpg" : "Mt. Hehuan, Taiwan"
+  - "/img/Lake_Wanaka_New Zealand.jpg" : "Lake Wanaka, New Zealand"
+  - "/img/Norway_Lofoten_Islands.jpg" : "Lofoten Islands, Norway"
+  - "/img/NGC_7331.jpg.jpg" : "NGC 7331 Galaxy"
 use-site-title: true
 ---
+<div class="list-filters">
+  <a href="/tags" class="list-filter">Index</a>
+</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}

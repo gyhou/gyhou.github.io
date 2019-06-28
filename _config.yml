@@ -79,6 +79,7 @@ social-network-links:
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: gyhou
+  medium: gyhou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -92,10 +93,11 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
+  linkedin: true
   twitter: true
   facebook: false
   google: false
-  linkedin: true
+  medium: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

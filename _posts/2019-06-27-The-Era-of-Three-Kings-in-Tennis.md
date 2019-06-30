@@ -2,10 +2,11 @@
 layout: post
 title: The Era of Three Kings in Tennis
 subtitle: Analyzing the history of tennis
-image: /img/grand-slams.jpg
-bigimg: /img/grand-slams.jpg
+gh-repo: gyhou/tennis_atp
+gh-badge: [star, fork, follow]
 tags: [tennis, data science]
 ---
+image: /img/hello_world.jpeg
 
 I just published [The Era of Three Kings in Tennis](https://link.medium.com/FCvjpknrSX) in Tennis on Medium! 
 

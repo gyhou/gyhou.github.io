@@ -6,7 +6,7 @@ gh-repo: gyhou/tennis_atp
 gh-badge: [star, fork, follow]
 tags: [tennis, data science]
 ---
-image: /img/hello_world.jpeg
+![four grand slams](https://cdn-images-1.medium.com/max/1000/1*xko-2_pE-3kUcxrI5OBm1w.jpeg)
 
 I just published [The Era of Three Kings in Tennis](https://link.medium.com/FCvjpknrSX) in Tennis on Medium! 
 

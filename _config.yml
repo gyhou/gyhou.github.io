@@ -25,9 +25,8 @@ description: Data Scientist
 navbar-links:
   Tags: "https://georgehou.org/tags/"
   Resources:
-    - Learn Coding: "https://lambdaschool.com"
     - My GitHub: "https://github.com/gyhou"
-  About Me / Contact: "aboutme"
+  About Me: "aboutme"
 nav-search: "search"
 #   Home: "https://georgehou.org"
 

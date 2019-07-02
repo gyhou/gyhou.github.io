@@ -4,7 +4,7 @@ title: Three Kings in Tennis
 subtitle: Analyzing the history of tennis
 gh-repo: gyhou/tennis_atp
 gh-badge: [star, fork, follow]
-tags: [tennis, data science]
+tags: [tennis, data science, blog]
 comments: true
 ---
 I just published [Three Kings in Tennis](https://link.medium.com/FCvjpknrSX) on Medium! 

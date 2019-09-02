@@ -8,20 +8,20 @@ comments: true
 ---
 My team and I deployed an app [Life, Death & Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku! 
 
-## :point_right: Our Teamwork
+## Our Teamwork
 
 ### 【Deployment and Dash】by @leehanchung  
 To run a local development server, at root directory:  
 ```[pipenv run] python app.py```  
 To deploy on Heroku, git add and commit, then do:  
 ```git push heroku master```  
-<img src="https://github.com/Nov05/CHSI-Dash/blob/master/pictures/dash%20interface.jpg?raw=true" width=650>
+![heroku homepage](https://github.com/Nov05/CHSI-Dash/blob/master/pictures/dash%20interface.jpg?raw=true)
 
 ### 【Plotly Choropleth Map】by @gyhou   
-<img src="https://github.com/Nov05/CHSI-Dash/blob/master/pictures/02.gif?raw=true" width=650>   
+![CHSI Plotly Choropleth Map](https://github.com/Nov05/CHSI-Dash/blob/master/pictures/02.gif?raw=true)
 
 ### 【Plotly 3D Scatter】by @nov05    
-<img src="https://github.com/Nov05/CHSI-Dash/blob/master/pictures/ezgif.com-optimize.gif?raw=true" width=450>  
+![CHSI Plotly 3D Scatter](https://github.com/Nov05/CHSI-Dash/blob/master/pictures/ezgif.com-optimize.gif?raw=true)
 
 ### 【Screen Recording】by @nov05  
 Screen Recording  

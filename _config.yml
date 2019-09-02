@@ -23,7 +23,7 @@ description: Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  Tags: "gyhou.com/tags/"
+  Tags: "tags/"
   Resources:
     - My GitHub: "https://github.com/gyhou"
   About Me: "aboutme"

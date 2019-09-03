@@ -2,7 +2,8 @@
 layout: post
 title: Life, Death & Poverty
 subtitle: Analyzing the history of tennis
-gh-repo: Nov05/CHSI-Dash
+gh-repo: gyhou/CHSI-Dash
+gh-badge: [star, fork, follow]
 tags: [health, data science, app, plotly, heroku]
 comments: true
 ---

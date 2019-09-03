@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life, Death & Poverty
-subtitle: Analyzing the history of tennis
+subtitle: Major causes of death in USA
 gh-repo: gyhou/CHSI-Dash
 gh-badge: [star, fork, follow]
 tags: [health, data science, app, plotly, heroku]

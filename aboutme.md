@@ -4,11 +4,17 @@ title: About me
 subtitle: George Hou - Data Scientist
 ---
 
-My name is George Hou.
+I love to explore nature, play tennis and board games!
 
-- Norcal
+Climbed the tallest mountain in Northeast Asia, Jade Mountain.
+
+Swam across a natural lake, Sun Moon Lake (3000 meters).
 
 
 ### My history
 
-Worked in the textile industry and now working on becoming a Data Scientist.
+Studied Environmental Policy in UCSD
+
+Woven and knit fabric sales for Adidas, Reebok, Under Armour, Spyder
+
+Studying data science, machine learning and AI

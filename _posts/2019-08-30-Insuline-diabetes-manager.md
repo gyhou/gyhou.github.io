@@ -110,6 +110,6 @@ val = [{"id": 1,
 Example Output:
 ```python
 {'Pre-breakfast measurement': 185.87, 'Post-breakfast measurement': 168.67, 
- 'Pre-lunch measurement': 119.76,     'Post-lunch measurement': 201.92, 
- 'Pre-supper measurement': 122.47,    'Post-supper measurement': 138.75}
+ 'Pre-lunch measurement':     119.76, 'Post-lunch measurement':     201.92, 
+ 'Pre-supper measurement':    122.47, 'Post-supper measurement':    138.75}
 ```

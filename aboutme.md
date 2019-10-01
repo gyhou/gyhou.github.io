@@ -6,9 +6,9 @@ subtitle: George Hou - Data Scientist
 
 I love to explore nature, play tennis and board games!
 
-Climbed the tallest mountain in Northeast Asia, Jade Mountain.
+- Climbed the tallest mountain in Northeast Asia, Jade Mountain (3952 meters)
 
-Swam across a natural lake, Sun Moon Lake (3000 meters).
+- Swam across a natural lake, Sun Moon Lake (3000 meters)
 
 
 ### My history

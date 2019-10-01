@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [health, data science, app, plotly, heroku]
 comments: true
 ---
-My team and I deployed an app [Life, Death & Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku! 
+My team and I deployed an app [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku! 
 
 ## Our Teamwork
 

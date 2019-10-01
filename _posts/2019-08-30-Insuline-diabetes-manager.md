@@ -16,15 +16,25 @@ Using the [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabet
 Our API(http://diabetes-manager-app.herokuapp.com) takes in a json string inside a list of measurements, preferably 3+ days worth of measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day blood glucose level before and after each meal.
 
 The input codes represents the following:
+
 33 = Regular insulin dose
+
 34 = NPH insulin dose
+
 35 = UltraLente insulin dose
+
 58 = Pre-breakfast blood glucose measurement
+
 59 = Post-breakfast blood glucose measurement
+
 60 = Pre-lunch blood glucose measurement
+
 61 = Post-lunch blood glucose measurement
+
 62 = Pre-supper blood glucose measurement
+
 63 = Post-supper blood glucose measurement
+
 
 Example input:
 ```python

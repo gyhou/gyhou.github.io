@@ -15,8 +15,8 @@ Using the [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabet
 
 [Blood glucose measurement prediction API](http://diabetes-manager-app.herokuapp.com)
 
-```python
-val = [{"id": 1,
+```json
+[{"id": 1,
         "timestamp": "2000-10-10 7:10",
         "code": 33,
         "value": 10.0,

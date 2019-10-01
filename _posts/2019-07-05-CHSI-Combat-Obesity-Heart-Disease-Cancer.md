@@ -8,6 +8,7 @@ tags: [health, data science, app, plotly, heroku]
 comments: true
 ---
 My team and I deployed an app called [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku!
+
 Using plotly, we aim to visualize the the data taken by the Community Health Status Indicators to help understand how each causes of death affects people across America.
 
 ## Data Source

@@ -18,3 +18,8 @@ Studied Environmental Policy in UCSD
 Woven and knit fabric sales for Adidas, Reebok, Under Armour, Spyder
 
 Studying data science, machine learning and AI
+
+- Predictive Modeling
+- SQL and Databases
+- Neural Networks
+- NLP

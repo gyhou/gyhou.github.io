@@ -12,7 +12,7 @@ My team and I deployed an app called [Life, Death and Poverty](https://tragicall
 Using plotly, we aim to visualize the the data taken by the Community Health Status Indicators (CHSI) to help understand how each causes of death affects people across America.
 
 ### Data Source
-**[Centers for Disease Control and Prevention](https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)**
+**[Centers for Disease Control and Prevention (CDC) Dataset](https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)**
 
 ## Our Teamwork
 

@@ -9,7 +9,7 @@ comments: true
 ---
 ![homepage](https://github.com/gyhou/gyhou.github.io/blob/master/img/diabetes%20manager%20homepage.png?raw=true)
 
-My team deployed an app [Insuline Diabetes Manager](https://diabetesmanager.netlify.com/) to help diabetic patients track and predict blood glucose levels!
+Our team deployed an app [Insuline Diabetes Manager](https://diabetesmanager.netlify.com/) (in less than a week) to help diabetic patients track and predict blood glucose levels!
 
 Using [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabetes)'s dataset, our data science team and I trained a model to predict user's future blood glucose level base on insulin intake, previous blood glucose measurements and the time it was measured.
 

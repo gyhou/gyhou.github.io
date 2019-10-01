@@ -9,12 +9,10 @@ comments: true
 ---
 My team and I deployed an app called [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku!
 
-Using plotly, we aim to visualize the the data taken by the Community Health Status Indicators to help understand how each causes of death affects people across America.
+Using plotly, we aim to visualize the the data taken by the Community Health Status Indicators (CHSI) to help understand how each causes of death affects people across America.
 
-## Data Source
-**Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease and Cancer**  
-[Centers for Disease Control and Prevention](https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)  
-Metadata Updated: June 3, 2019
+### Data Source
+**[Centers for Disease Control and Prevention]**(https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)
 
 ## Our Teamwork
 

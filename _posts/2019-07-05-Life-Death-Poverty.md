@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [health, data science, app, plotly, heroku]
 comments: true
 ---
-My team and I deployed an app called [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku!
+Our team deployed an app called [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku!
 
 Using plotly dash, we visualize the the dataset taken by the Community Health Status Indicators (CHSI) to help understand and increase awareness how each causes of death affects people across America.
 

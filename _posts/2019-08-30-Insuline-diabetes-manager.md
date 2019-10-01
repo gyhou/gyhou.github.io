@@ -15,8 +15,9 @@ Using the [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabet
 
 [Blood glucose measurement prediction API](http://diabetes-manager-app.herokuapp.com)
 
-```json
-[{"id": 1,
+Example input:
+```python
+val = [{"id": 1,
         "timestamp": "2000-10-10 7:10",
         "code": 33,
         "value": 10.0,
@@ -91,3 +92,11 @@ Using the [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabet
         "code": 57,
         "value": 200.0,
         "user_id": 1}]```
+        
+        
+Example Output:
+Response was
+```json
+{'Pre-breakfast 07:23AM measurement': 185.87, 'Post-breakfast 09:56AM measurement': 168.67, 
+'Pre-lunch 12:09PM measurement': 119.76, 'Post-lunch 14:20PM measurement': 201.92, 
+'Pre-supper 17:52PM measurement': 122.47, 'Post-supper 19:11PM measurement': 138.75}```

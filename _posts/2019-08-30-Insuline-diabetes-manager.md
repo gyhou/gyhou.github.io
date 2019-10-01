@@ -13,7 +13,18 @@ My team deployed an app [Insuline Diabetes Manager](https://diabetesmanager.netl
 
 Using the [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabetes) dataset, our data science team and I trained a model to predict user's future blood glucose level base on insulin intake, previous measurements and the time it was measured.
 
-Our Blood glucose measurement prediction API(http://diabetes-manager-app.herokuapp.com) takes in a json string inside a list of measurements, preferably over a 3 day period with measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day blood glucose level before and after each meal.
+Our API(http://diabetes-manager-app.herokuapp.com) takes in a json string inside a list of measurements, preferably 3+ days worth of measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day blood glucose level before and after each meal.
+
+The input codes represents the following:
+33 = Regular insulin dose
+34 = NPH insulin dose
+35 = UltraLente insulin dose
+58 = Pre-breakfast blood glucose measurement
+59 = Post-breakfast blood glucose measurement
+60 = Pre-lunch blood glucose measurement
+61 = Post-lunch blood glucose measurement
+62 = Pre-supper blood glucose measurement
+63 = Post-supper blood glucose measurement
 
 Example input:
 ```python
@@ -93,7 +104,6 @@ val = [{"id": 1,
         "value": 200.0,
         "user_id": 1}]
 ```
-        
         
 Example Output:
 ```python

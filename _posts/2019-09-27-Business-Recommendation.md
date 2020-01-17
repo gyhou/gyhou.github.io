@@ -14,23 +14,23 @@ Using [Yelp's official dataset](https://www.yelp.com/dataset), I trained a model
 My API takes in a json string inside a list of measurements, preferably 3+ days worth of measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day blood glucose level before and after each meal.
 
 Below are the list of categories used in the Yelp dataset:
-⋅⋅* Active Life
-⋅⋅* Auto Repair
-⋅⋅* Automotive
-⋅⋅* Beauty Spas
-⋅⋅* Contractors
-⋅⋅* Doctors
-⋅⋅* Event Planning Services
-⋅⋅* Fashion
-⋅⋅* Fast Food
-⋅⋅* Hair Salons
-⋅⋅* Health Medical
-⋅⋅* Home Garden
-⋅⋅* Home Services
-⋅⋅* Local Services
-⋅⋅* Professional Services
-⋅⋅* Real Estate
-⋅⋅* Shopping 
+* Active Life
+* Auto Repair
+* Automotive
+* Beauty Spas
+* Contractors
+* Doctors
+* Event Planning Services
+* Fashion
+* Fast Food
+* Hair Salons
+* Health Medical
+* Home Garden
+* Home Services
+* Local Services
+* Professional Services
+* Real Estate
+* Shopping 
 
 When submitting a review, make sure to specify which category the review is for.
 

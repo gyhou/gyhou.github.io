@@ -11,6 +11,8 @@ One of the most crucial work in the text mining field is to present the content 
 
 My article on [Analyzing Yelp Dataset with Scattertext spaCy](https://towardsdatascience.com/analyzing-yelp-dataset-with-scattertext-spacy-82ea8bb7a60e) will explore the [Yelp's Open Dataset](https://www.yelp.com/dataset/) using Scattertext to visualize and analyze the text data.
 
+A sample Scattertext html can be found [here](http://gyhou.com/RV-Parks-Campgrounds-Yelp-Reviews-Scattertext.html).
+
 The code used for this is located in my [GitHub repository](https://github.com/gyhou/yelp_dataset).
 
 ![yelp_rv_scattertex](https://github.com/gyhou/yelp_dataset/blob/master/yelp_rv_scattertext.png)

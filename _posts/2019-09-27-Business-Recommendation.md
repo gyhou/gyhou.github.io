@@ -9,7 +9,7 @@ comments: true
 ---
 I deployed a Yelp Business Recommendation API (http://br-yelp-predict-rating.herokuapp.com) using machine learning and scattertext to help business owners understand the key elements for different categories.
 
-Using [Yelp's official dataset](https://www.yelp.com/dataset), I trained a model to predict the user's review rating base on reviews on the Yelp dataset in the specific category.
+Using [Yelp's open dataset](https://www.yelp.com/dataset), I trained a model to predict the user's review rating base on reviews on the Yelp dataset in the specific category.
 
 My API takes in a json string with "category" and "review". After sending the input to my API, it will respond with the predicted rating of the review.
 

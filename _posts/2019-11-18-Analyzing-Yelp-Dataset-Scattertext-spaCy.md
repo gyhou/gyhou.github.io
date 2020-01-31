@@ -2,7 +2,7 @@
 layout: post
 title: Analyzing Yelp Dataset with Scattertext spaCy
 subtitle: Exploratory data analysis and visualization for text data using NLP
-gh-repo: business-rec/ds
+gh-repo: gyhou/yelp_dataset
 gh-badge: [star, fork, follow]
 tags: [Python, Data Science, Yelp, Business, Jupyter Notebook]
 comments: true

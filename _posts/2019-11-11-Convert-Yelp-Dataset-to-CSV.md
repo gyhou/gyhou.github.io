@@ -2,7 +2,7 @@
 layout: post
 title: Convert Yelp Dataset to CSV
 subtitle: How to load a massive file in Jupyter Notebook using Pandas
-gh-repo: business-rec/ds
+gh-repo: gyhou/yelp_dataset
 gh-badge: [star, fork, follow]
 tags: [Python, Data Science, Yelp, Pandas, Jupyter Notebook]
 comments: true

@@ -11,6 +11,8 @@ I deployed a Yelp Business Recommendation API (http://br-yelp-predict-rating.her
 
 Using [Yelp's open dataset](https://www.yelp.com/dataset), I trained a model to predict the user's review rating base on reviews on the Yelp dataset in the specific category.
 
+I wrote an article [Convert Yelp Dataset to CSV](https://towardsdatascience.com/converting-yelp-dataset-to-csv-using-pandas-2a4c8f03bd88) to demonstrate a step-by-step of how to load the gigantic file of the Yelp dataset, notably the 5.2 gigabytes worth of review.json file to a more manageable CSV file. With over 6 million reviews in the review.json file, it could be troublesome to load inside a Jupyter Notebook.
+
 My API takes in a json string with "category" and "review". After sending the input to my API, it will respond with the predicted rating of the review.
 
 When submitting a review, make sure to specify which category the review is for.

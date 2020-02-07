@@ -15,4 +15,4 @@ A sample Scattertext html can be found [here](http://gyhou.com/RV-Parks-Campgrou
 
 The code used for this is located in my [GitHub repository](https://github.com/gyhou/yelp_dataset).
 
-![yelp_rv_scattertex](https://github.com/gyhou/yelp_dataset/blob/master/yelp_rv_scattertext.png)
+![yelp_rv_scattertex](https://github.com/gyhou/yelp_dataset/raw/master/yelp_rv_scattertext.png?raw=true)

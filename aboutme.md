@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: George Hou - Data Scientist
+css: "/css/aboutme.css"
 ---
 
 I love to explore nature, play tennis and board games!
@@ -50,4 +51,4 @@ B.A. in Environmental Policy, UCSD
   <div style="font-size: 12px; margin: -10px 0 10px;">Please do not use this form to send me advertisements or spam.</div>
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-</form>
+  </form>

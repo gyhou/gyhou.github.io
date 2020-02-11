@@ -104,4 +104,4 @@ medium:
 calendly:
   name: "Calendly"
   baseURL: "https://calendly.com/"
-  icon: "fa-calendly"
+  icon: "fa-calendar-check-o"

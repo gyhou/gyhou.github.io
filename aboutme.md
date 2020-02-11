@@ -8,18 +8,30 @@ css: "/css/aboutme.css"
 I love to explore nature, hike, swim, play tennis, board games and meeting new people!
 
 <span class="fa fa-graduation-cap about-icon"></span>
-## Background
-B.A. in Environmental Policy, UCSD
+## Education
+**Data Science**, Lambda School, 2019-Current
+- A 9 months full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
 
-**5+ years sales experience**
-- Woven and knit fabric sales for Reebok, Under Armour, Columbia, Fox, Spyder
-- Textile grade Color and Functional Masterbatch sales
+**B.A. in Environmental Policy, UCSD**, 2012
+
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
 **Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
 **Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
+
+<span class="fa fa-briefcase about-icon"></span>
+## Work Experience
+**Marketing Sales Representative** Nam Liong Enterprise Co. Ltd., 2018-2019
+- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox, Spyder)
+- Communicated daily with overseas offices to streamline information and development timelines
+- Analyzed each fabrication technically and aesthetically suitable for each client
+
+**Sales Associate** Auspring Co. Ltd., 2014-2018
+- Gathered data concerning customers, competitors, and market trends
+- Handled communications with distributors and finalized contract deals
+- Increased overseas market sales growth by 30% for Functional Masterbatch products
 
 <span class="fa fa-envelope about-icon"></span>
 # Contact

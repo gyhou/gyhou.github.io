@@ -11,15 +11,15 @@ I love to explore nature, play tennis and board games!
 - Swam across a natural lake, Sun Moon Lake (3000 meters)
 
 
-### My history
+### Background
 
-Studied Environmental Policy in UCSD
+B.A. in Environmental Policy, UCSD
 
-Woven and knit fabric sales for Adidas, Reebok, Under Armour, Spyder
+**5+ years sales experience**
+- Woven and knit fabric sales for Reebok, Under Armour, Columbia, Fox, Spyder
+- Textile grade Color and Functional Masterbatch sales
 
-Studying data science, machine learning and AI
-
-- Predictive Modeling
-- SQL and Databases
-- Neural Networks
-- NLP
+### Technical Skills
+**Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
+**Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB
+**Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning

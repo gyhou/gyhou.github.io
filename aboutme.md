@@ -5,14 +5,14 @@ subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
 <span class="fa fa-heart about-icon"></span>
-I love to explore nature, hike, swim, play tennis, board games and meeting new people!
+I love to explore nature, hike, swim, read, play tennis, board games and meeting new people!
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education
 **Data Science**, Lambda School, 2019-Current
-- A 9 months full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
+- A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
 
-**B.A. in Environmental Policy, UCSD**, 2012
+**B.A. in Environmental Policy**, UC San Diego, 2012
 
 
 <span class="fa fa-code about-icon"></span>
@@ -21,24 +21,26 @@ I love to explore nature, hike, swim, play tennis, board games and meeting new p
 <br>
 **Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
 <br>
-**Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
+**Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
 **Marketing Sales Representative** Nam Liong Enterprise Co. Ltd., 2018-2019
-- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox, Spyder)
-- Communicated daily with overseas offices to streamline information and development timelines
+<br>
+- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox)
+- Collaborated with overseas offices to streamline information and timelines
 - Analyzed each fabrication technically and aesthetically suitable for each client
 
 **Sales Associate** Auspring Co. Ltd., 2014-2018
+<br>
 - Gathered data concerning customers, competitors, and market trends
 - Handled communications with distributors and finalized contract deals
-- Increased overseas market sales growth by 30% for Functional Masterbatch products
+- Increased overseas market sales by 30% for Functional Masterbatch products
 
 <span class="fa fa-envelope about-icon"></span>
 # Contact
-<p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch. I love meeting new people so don't hesitate to send a message!</p>
-<p>I'm a data scientist looking for new opportunities, so feel free to get in touch if you want to discuss potential projects or your analysis needs.</p>
+<p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch.</p>
+<p>I'm a data scientist looking for full-time opportunities, so feel free to get in touch if you want to discuss.</p>
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/mgekrkbr" method="POST" class="form" id="contact-form">

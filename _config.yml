@@ -79,7 +79,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#   rss: false
   medium: gyhou
   email: "georgehou2008@gmail.com"
   github: gyhou
@@ -101,7 +101,6 @@ social-network-links:
 
 # Select which links to show in the footer  
 footer-links-active:
-  rss: false
   email: true
   twitter: true
   github: true

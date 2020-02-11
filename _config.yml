@@ -65,20 +65,27 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: George Hou
+  medium: gyhou
+  email: "georgehou2008@gmail.com"
+  github: gyhou
+  linkedin: gyhou
+  twitter: gyhou
+  calendly: "gyhou/meeting"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
+# social-network-links:
 #   rss: true
-  medium: gyhou
-  email: "georgehou2008@gmail.com"
-  github: gyhou
+#   medium: gyhou
+#   email: "georgehou2008@gmail.com"
+#   github: gyhou
+#   linkedin: gyhou
+#   twitter: gyhou
+#   calendly: "gyhou/meeting"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: gyhou
-  twitter: gyhou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -90,16 +97,25 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 
+# Select which links to show in the footer  
+footer-links-active:
+  rss: false
+  email: true
+  twitter: true
+  github: true
+  linkedin: true
+  calendly: true
+  medium: true
+  
 # Select which share links to show in posts
 share-links-active:
   linkedin: true
   twitter: true
-  facebook: false
   google: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "GeorgeHou.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "gyhou.com" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

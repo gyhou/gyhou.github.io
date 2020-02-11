@@ -4,7 +4,7 @@ title: Convert Yelp Dataset to CSV
 subtitle: How to load a massive file in Jupyter Notebook using Pandas
 gh-repo: gyhou/yelp_dataset
 gh-badge: [star, fork, follow]
-tags: [Python, Data Science, Yelp, Pandas, Jupyter Notebook]
+tags: [exploratory analysis, big data, yelp, pandas, jupyter notebook]
 comments: true
 ---
 Round 13 of the Yelp dataset challenge started in January 2019 providing students the opportunity to win awards and conduct analysis or research for academic use.

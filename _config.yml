@@ -25,8 +25,10 @@ description: Data Scientist
 navbar-links:
   Tags: "tags/"
   Resources:
-    - My GitHub: "https://github.com/gyhou"
-  About Me: "aboutme"
+    - GitHub: "https://github.com/gyhou"
+    - Medium: "https://medium.com/@gyhou"
+    - Linkedin: "https://www.linkedin.com/in/gyhou/"
+  About Me / Contact: "aboutme"
 nav-search: "search"
 #   Home: "https://georgehou.org"
 

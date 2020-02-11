@@ -8,19 +8,17 @@ css: "/css/aboutme.css"
 I love to explore nature, hike, swim, play tennis, board games and meeting new people!
 
 <span class="fa fa-graduation-cap about-icon"></span>
-<p class="about-text">
+### Background
 B.A. in Environmental Policy, UCSD
 
 **5+ years sales experience**
 - Woven and knit fabric sales for Reebok, Under Armour, Columbia, Fox, Spyder
 - Textile grade Color and Functional Masterbatch sales
-</p>
+
 <span class="fa fa-code about-icon"></span>
 ### Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
-
-**Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB
-
+**Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
 **Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
 
 # Contact

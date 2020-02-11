@@ -11,7 +11,7 @@ I love to explore nature, play tennis and board games!
 
 - Swam across a natural lake, Sun Moon Lake (3000 meters)
 
-
+<span class="fa fa-graduation-cap about-icon"></span>
 ### Background
 
 B.A. in Environmental Policy, UCSD
@@ -29,8 +29,8 @@ B.A. in Environmental Policy, UCSD
 
 # Contact
 
-<p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
-<p>I'm a data scientist looking for new opportunities, so feel free to get in touch if you want to discuss potential projects, your analysis needs, or need any paid help.</p>
+<p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch. I love meeting new people so don't hesitate to send a message!</p>
+<p>I'm a data scientist looking for new opportunities, so feel free to get in touch if you want to discuss potential projects or your analysis needs.</p>
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/mgekrkbr" method="POST" class="form" id="contact-form">

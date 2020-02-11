@@ -24,7 +24,7 @@ description: Data Scientist
 # List of links in the navigation bar
 navbar-links:
 #   Tags: "tags/"
-  Links:
+  My Links:
     - GitHub: "https://github.com/gyhou"
     - Medium: "https://medium.com/@gyhou"
     - Linkedin: "https://www.linkedin.com/in/gyhou/"

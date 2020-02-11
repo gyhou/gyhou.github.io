@@ -4,22 +4,18 @@ title: About me
 subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
-
-I love to explore nature, play tennis and board games!
-
-- Climbed the tallest mountain in Northeast Asia, Jade Mountain (3952 meters)
-
-- Swam across a natural lake, Sun Moon Lake (3000 meters)
+<span class="fa fa-heart about-icon"></span>
+I love to explore nature, hike, swim, play tennis, board games and meeting new people!
 
 <span class="fa fa-graduation-cap about-icon"></span>
-### Background
-
+<p class="about-text">
 B.A. in Environmental Policy, UCSD
 
 **5+ years sales experience**
 - Woven and knit fabric sales for Reebok, Under Armour, Columbia, Fox, Spyder
 - Textile grade Color and Functional Masterbatch sales
-
+</p>
+<span class="fa fa-code about-icon"></span>
 ### Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
 

@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-# url: ""
-# baseurl: ""
+url: "https://gyhou.com"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -67,12 +67,12 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: George Hou
-#   medium: gyhou
-#   email: "georgehou2008@gmail.com"
-#   github: gyhou
-#   linkedin: gyhou
-#   twitter: gyhou
-#   calendly: "gyhou/meeting"
+  medium: gyhou
+  email: "georgehou2008@gmail.com"
+  github: gyhou
+  linkedin: gyhou
+  twitter: gyhou
+  calendly: "gyhou/meeting"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

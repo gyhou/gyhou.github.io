@@ -2,8 +2,9 @@
   <div class="container beautiful-jekyll-footer">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">         
-          {%- for link in site.social-network-links -%}
+        <ul class="list-inline text-center footer-links">       
+          
+<!--           {%- for link in site.social-network-links -%}
             {%- assign curkey = link[0] -%}
             {%- assign element = site.data.SocialNetworks[curkey] -%}
             <li>
@@ -21,7 +22,73 @@
                 <span class="sr-only">{{ element.name }}</span>
               </a>
             </li>
-          {%- endfor -%}
+          {%- endfor -%} -->
+                
+          {% if site.author.email and site.footer-links-active.email %}
+          <li>
+            <a href="mailto:{{ site.author.email }}?subject=Hello from {{ site.url-pretty }}" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.calendly and site.footer-links-active.calendly %}
+          <li>
+            <a href="https://calendly.com/{{ site.author.calendly }}" target="_blank" title="Schedule a meeting with me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-calendar-check-o fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.twitter and site.footer-links-active.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.github and site.footer-links-active.github %}
+          <li>
+            <a href="https://github.com/{{ site.author.github }}" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.medium and site.footer-links-active.medium %}
+          <li>
+            <a href="https://stackoverflow.com/{{ site.author.stackoverflow }}" title="Medium">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.author.linkedin and site.footer-links-active.linkedin %}
+          <li>
+            <a href="https://linkedin.com/{{ site.author.linkedin }}" title="LinkedIn">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       <p class="copyright text-muted">
       {{ site.author.name }}

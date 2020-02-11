@@ -100,3 +100,8 @@ medium:
   name: "Medium"
   baseURL: "https://medium.com/@"
   icon: "fa-medium"
+  
+calendly:
+  name: "Calendly"
+  baseURL: "https://calendly.com/"
+  icon: "fa-calendly"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyzing Yelp Dataset with Scattertext spaCy
+title: Analyzing Yelp Dataset with Scattertext
 subtitle: Exploratory data analysis and visualization for text data using NLP
 gh-repo: gyhou/yelp_dataset
 gh-badge: [star, fork, follow]

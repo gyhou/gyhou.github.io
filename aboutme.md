@@ -8,7 +8,7 @@ css: "/css/aboutme.css"
 I love to explore nature, hike, swim, play tennis, board games and meeting new people!
 
 <span class="fa fa-graduation-cap about-icon"></span>
-### Background
+## Background
 B.A. in Environmental Policy, UCSD
 
 **5+ years sales experience**
@@ -16,13 +16,13 @@ B.A. in Environmental Policy, UCSD
 - Textile grade Color and Functional Masterbatch sales
 
 <span class="fa fa-code about-icon"></span>
-### Technical Skills
+## Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
 **Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
 **Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
 
+<span class="fa fa-envelope about-icon"></span>
 # Contact
-
 <p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch. I love meeting new people so don't hesitate to send a message!</p>
 <p>I'm a data scientist looking for new opportunities, so feel free to get in touch if you want to discuss potential projects or your analysis needs.</p>
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>

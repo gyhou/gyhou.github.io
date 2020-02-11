@@ -18,7 +18,9 @@ I love to explore nature, hike, swim, play tennis, board games and meeting new p
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
+<br>
 **Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
+<br>
 **Skills:** Data Mining, Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
 
 <span class="fa fa-briefcase about-icon"></span>

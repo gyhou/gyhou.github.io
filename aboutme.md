@@ -4,8 +4,17 @@ title: About me
 subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
-<span class="fa fa-heart about-icon"></span>
-I love to explore nature, hike, swim, read, play tennis, board games and meeting new people!
+<span class="fa fa-briefcase about-icon"></span>
+## Work Experience
+**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., 2018-2019
+- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox)
+- Collaborated with overseas offices to streamline information and timelines
+- Analyzed each fabrication technically and aesthetically suitable for each client
+
+**Sales Associate**, Auspring Co. Ltd., 2014-2018
+- Gathered data concerning customers, competitors, and market trends
+- Handled communications with distributors and finalized contract deals
+- Increased overseas market sales by 30% for Functional Masterbatch products
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education
@@ -14,28 +23,16 @@ I love to explore nature, hike, swim, read, play tennis, board games and meeting
 
 **B.A. in Environmental Policy**, UC San Diego, 2012
 
-
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
 **Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
 <br>
-**Frameworks:** TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Django, Matplotlib, AWS, MongoDB, Plotly
+**Frameworks:** TensorFlow, PyTorch, Keras, Spark, Flask, Django, Matplotlib, AWS, MongoDB
 <br>
 **Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
 
-<span class="fa fa-briefcase about-icon"></span>
-## Work Experience
-**Marketing Sales Representative** Nam Liong Enterprise Co. Ltd., 2018-2019
-<br>
-- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox)
-- Collaborated with overseas offices to streamline information and timelines
-- Analyzed each fabrication technically and aesthetically suitable for each client
-
-**Sales Associate** Auspring Co. Ltd., 2014-2018
-<br>
-- Gathered data concerning customers, competitors, and market trends
-- Handled communications with distributors and finalized contract deals
-- Increased overseas market sales by 30% for Functional Masterbatch products
+<span class="fa fa-heart about-icon"></span>
+I love to explore nature, hike, swim, play tennis, board games and meeting new people!
 
 <span class="fa fa-envelope about-icon"></span>
 # Contact

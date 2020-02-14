@@ -2,7 +2,7 @@
 layout: post
 title: Yelp Rating Prediction API
 subtitle: Explore and predict Yelp's data
-gh-repo: business-rec/ds
+gh-repo: gyhou/yelp_dataset
 gh-badge: [star, fork, follow]
 tags: [business, data science, API, heroku, NLP, predictive modeling]
 comments: true

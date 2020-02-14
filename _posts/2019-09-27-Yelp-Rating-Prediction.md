@@ -4,7 +4,7 @@ title: Yelp Rating Prediction API
 subtitle: Explore and predict Yelp's data
 gh-repo: business-rec/ds
 gh-badge: [star, fork, follow]
-tags: [business, data science, API, heroku, NLP, scattertext]
+tags: [business, data science, API, heroku, NLP, predictive modeling]
 comments: true
 ---
 I deployed a Yelp Rating Prediction API (http://br-yelp-predict-rating.herokuapp.com) using [Yelp's open dataset](https://www.yelp.com/dataset) and machine learning to trained a model to predict reviews base on different categories.

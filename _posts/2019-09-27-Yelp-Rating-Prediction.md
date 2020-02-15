@@ -9,7 +9,7 @@ comments: true
 ---
 I deployed a Yelp Rating Prediction API (http://br-yelp-predict-rating.herokuapp.com) using [Yelp's open dataset](https://www.yelp.com/dataset) and machine learning to trained a model to predict reviews base on different categories.
 
-I wrote an article [Convert Yelp Dataset to CSV](https://towardsdatascience.com/converting-yelp-dataset-to-csv-using-pandas-2a4c8f03bd88) to demonstrate a step-by-step of how to load the gigantic file of the Yelp dataset, notably the 5.2 gigabytes worth of review.json file to a more manageable CSV file. With over 6 million reviews in the review.json file, it could be troublesome to load inside a Jupyter Notebook.
+I wrote an article [Convert Yelp Dataset to CSV](https://towardsdatascience.com/converting-yelp-dataset-to-csv-using-pandas-2a4c8f03bd88) to demonstrate a step-by-step of how to load the gigantic file of the Yelp dataset, notably the 5.2 gigabytes worth of review.json file to a more manageable CSV file. With over 6 million reviews in the review.json file, it could be troublesome to load inside a Jupyter Notebook. After successfully  converting the dataset, check out my next post for an [explorative analysis](https://towardsdatascience.com/analyzing-yelp-dataset-with-scattertext-spacy-82ea8bb7a60e) of the dataset!
 
 My API takes in a json string with "category" and "review". After sending the input to my API, it will respond with the predicted rating of the review.
 

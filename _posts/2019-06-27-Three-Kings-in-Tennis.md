@@ -2,7 +2,7 @@
 layout: post
 title: Three Kings in Tennis
 subtitle: Analyzing the history of tennis
-gh-repo: gyhou/tennis_atp
+gh-repo: gyhou/tennis
 gh-badge: [star, fork, follow]
 tags: [tennis, data science, blog]
 comments: true

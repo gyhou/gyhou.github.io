@@ -37,8 +37,7 @@ I love to explore nature, hike, swim, play tennis, board games and meeting new p
 <span class="fa fa-envelope about-icon"></span>
 # Contact
 <p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch.</p>
-<p>I'm a data scientist looking for full-time opportunities, so feel free to get in touch if you want to discuss.</p>
-<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
+<p>I'm a data scientist looking for full-time opportunities. If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/mgekrkbr" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>

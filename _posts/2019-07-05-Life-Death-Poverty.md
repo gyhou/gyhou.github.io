@@ -9,7 +9,7 @@ comments: true
 ---
 Our team deployed an app called [Life, Death and Poverty](https://tragically-eh-20397.herokuapp.com/) on Heroku!
 
-Using plotly dash, we visualize the the dataset taken by the Community Health Status Indicators (CHSI) to help understand and increase awareness how each causes of death affects people across America.
+Using plotly dash, we visualize the dataset taken by the Community Health Status Indicators (CHSI) to help understand and increase awareness of how each cause of death affects people across America.
 
 **Data Source** - [Centers for Disease Control and Prevention (CDC) Dataset](https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)
 

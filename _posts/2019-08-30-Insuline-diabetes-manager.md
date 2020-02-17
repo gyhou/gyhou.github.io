@@ -7,13 +7,13 @@ gh-badge: [star, fork, follow]
 tags: [health, data science, app, predictive modeling, heroku]
 comments: true
 ---
-Our team deployed an app [Insuline Diabetes Manager](https://diabetesmanager.netlify.com/) (in less than a week) to help diabetic patients track and predict blood glucose levels!
+Our team deployed an app [Insuline Diabetes Manager](https://diabetesmanager.netlify.com/) to help diabetic patients track and predict blood glucose levels! 
 
 ![homepage](https://github.com/gyhou/gyhou.github.io/blob/master/img/diabetes%20manager%20homepage.png?raw=true)
 
-Using [Michael Kahn, MD, PhD](https://archive.ics.uci.edu/ml/datasets/diabetes)'s dataset, our data science team and I trained a model to predict user's future blood glucose level base on insulin intake, previous blood glucose measurements and the time it was measured.
+Using [Michael Kahn, MD, Ph.D.'s dataset](https://archive.ics.uci.edu/ml/datasets/diabetes), our data science team and I trained a model to predict the user's future blood glucose level base on insulin intake, previous blood glucose measurements and the time it was measured.
 
-Our API(http://diabetes-manager-app.herokuapp.com) takes in a json string inside a list of measurements, preferably 3+ days worth of measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day blood glucose level before and after each meal.
+Our API(http://diabetes-manager-app.herokuapp.com) takes in a json string inside a list of measurements, preferably 3+ days worth of measurements around breakfast, lunch and dinner. After sending the input to our API, it will respond with measurements predicting the next day's blood glucose level before and after each meal.
 
 The input codes represents the following:
 ```

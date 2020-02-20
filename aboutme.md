@@ -19,18 +19,19 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
-**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., 2018-2019
-- Managed the sourcing of fabrics for clients (Reebok, Under Armour, Columbia, Fox)
-- Collaborated with overseas offices to streamline information and timelines
-- Analyzed each fabrication technically and aesthetically suitable for each client
+**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., 2018 - 2019
+- Strategized with apparel industry experts and manufacturer experts to design customer’s product
+- Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
+- Organized and traveled to oversea exhibitions with the team for an extended period of time
+- Scheduled meetings and visited oversea clients to collaborate on future products
 
-**Sales Associate**, Auspring Co. Ltd., 2014-2018
+**Sales Associate**, Auspring Co. Ltd., 2014 - 2018
 - Gathered data concerning customers, competitors, and market trends
-- Handled communications with distributors and finalized contract deals
+- Developed creative problem solving skills to solve conflicts between distributor and customer
 - Increased overseas market sales by 30% for Functional Masterbatch products
 
 ## Education
-**Data Science**, Lambda School, 2019-2020
+**Data Science**, Lambda School, 2019 - 2020
 - A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
 
 **B.A. in Environmental Policy**, UC San Diego, 2012

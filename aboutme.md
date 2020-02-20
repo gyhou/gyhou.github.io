@@ -6,7 +6,7 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-address-card-o about-icon"></span>
 ## Summary
-Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
+Data scientist and a fast learner with 5 years of work experience and interest in providing analytics for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
@@ -19,14 +19,14 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
 **Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., 2018 - 2019
-- Strategized with apparel industry experts and manufacturer experts to design customer’s product
+- Strategized with industry and manufacturer experts to design customer’s product
 - Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
-- Organized and traveled to oversea exhibitions with the team for an extended period of time
+- Organized and traveled to oversea exhibitions with for an extended period of time
 - Scheduled meetings and visited oversea clients to collaborate on future products
 
 **Sales Associate**, Auspring Co. Ltd., 2014 - 2018
 - Gathered data concerning customers, competitors, and market trends
-- Developed creative problem solving skills to solve conflicts between distributor and customer
+- Developed problem solving skills to solve conflicts between distributor and customer
 - Increased overseas market sales by 30% for Functional Masterbatch products
 
 <span class="fa fa-graduation-cap about-icon"></span>

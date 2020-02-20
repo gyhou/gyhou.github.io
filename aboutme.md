@@ -33,7 +33,8 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education
 **Data Science**, Lambda School, 2019 - 2020
-- A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
+<br>
+Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science and Machine Learning.
 
 **B.A. in Environmental Policy**, UC San Diego, 2012
 

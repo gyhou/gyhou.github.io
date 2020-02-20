@@ -4,8 +4,9 @@ title: About me
 subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
+
 <span class="fa fa-address-card-o about-icon"></span>
-## Summary
+<span class="fa fa-user-o about-icon"></span>
 Data scientist and a fast learner with 5 years of work experience and interest in providing analytics for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
 
 <span class="fa fa-code about-icon"></span>
@@ -26,7 +27,7 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 
 **Sales Associate**, Auspring Co. Ltd., 2014 - 2018
 - Gathered data concerning customers, competitors, and market trends
-- Developed problem solving skills to solve conflicts between distributor and customer
+- Developed problem solving skills to solve conflicts between distributor and client
 - Increased overseas market sales by 30% for Functional Masterbatch products
 
 <span class="fa fa-graduation-cap about-icon"></span>

@@ -4,7 +4,7 @@ title: About me
 subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
-<span class="fa fa-address-card about-icon"></span>
+<span class="fa fa-address-card-o about-icon"></span>
 ## Summary
 Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
 
@@ -15,7 +15,6 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 **Frameworks:** TensorFlow, PyTorch, Keras, Spark, Flask, Django, AWS, MongoDB, Plotly
 <br>
 **Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
-<span class="fa fa-graduation-cap about-icon"></span>
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
@@ -30,6 +29,7 @@ Data scientist and a fast learner with 5 years of work experience and interest i
 - Developed creative problem solving skills to solve conflicts between distributor and customer
 - Increased overseas market sales by 30% for Functional Masterbatch products
 
+<span class="fa fa-graduation-cap about-icon"></span>
 ## Education
 **Data Science**, Lambda School, 2019 - 2020
 - A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.

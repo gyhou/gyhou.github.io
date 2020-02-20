@@ -6,7 +6,7 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
+Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning and data visualization to solve challenging industrial problems.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills

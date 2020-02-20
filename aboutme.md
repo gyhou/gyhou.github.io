@@ -4,12 +4,18 @@ title: About me
 subtitle: George Hou - Data Scientist
 css: "/css/aboutme.css"
 ---
-<span class="fa fa-graduation-cap about-icon"></span>
-## Education
-**Data Science**, Lambda School, 2019-2020
-- A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
+<span class="fa fa-address-card-o about-icon"></span>
+## Summary
+Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems.
 
-**B.A. in Environmental Policy**, UC San Diego, 2012
+<span class="fa fa-code about-icon"></span>
+## Technical Skills
+**Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
+<br>
+**Frameworks:** TensorFlow, PyTorch, Keras, Spark, Flask, Django, AWS, MongoDB, Plotly
+<br>
+**Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
+<span class="fa fa-graduation-cap about-icon"></span>
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
@@ -23,16 +29,14 @@ css: "/css/aboutme.css"
 - Handled communications with distributors and finalized contract deals
 - Increased overseas market sales by 30% for Functional Masterbatch products
 
-<span class="fa fa-code about-icon"></span>
-## Technical Skills
-**Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
-<br>
-**Frameworks:** TensorFlow, PyTorch, Keras, Spark, Flask, Django, AWS, MongoDB, Plotly
-<br>
-**Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
+## Education
+**Data Science**, Lambda School, 2019-2020
+- A full-time Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science.
+
+**B.A. in Environmental Policy**, UC San Diego, 2012
 
 <span class="fa fa-heart about-icon"></span>
-I love to explore nature, hike, swim, play tennis, board games and meeting new people!
+Passion for exploring nature and challenging myself: Completed the Tough Mudder 10km on Bear mountain, climbed the highest mountain in Northeast Asia and swam across a natural open lake of 1.8 miles.
 
 <span class="fa fa-envelope about-icon"></span>
 # Contact

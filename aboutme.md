@@ -6,36 +6,37 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data scientist and a fast learner with 5 years of work experience and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning and data visualization to solve challenging industrial problems.
+Data Scientist and a fast learner with years of experience in project work and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems and provide meaningful insights.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
-**Programming Expertise:** Python (NumPy, Pandas, Scikit-Learn), SQL, and Excel
+**Experienced**: SQL, Scala, Spark, AWS, MongoDB, Flask, Tableau, Applied Mathematics, ETL, Computer Vision
 <br>
-**Frameworks:** TensorFlow, PyTorch, Keras, Spark, Flask, Django, AWS, MongoDB, Plotly
-<br>
-**Skills:** Data Mining/Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing, Deep Learning
+**Advanced**: Data Analysis, Python, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, Data Visualization, Natural Language Processing (NLP), Predictive Analytics, TensorFlow, Pytorch, Keras
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
-**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., 2018 - 2019
-- Strategized with industry and manufacturer experts to design customer’s product
+**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., May 2018 - May 2019
+- Strategized with apparel industry experts and manufacturer experts to design customer’s product
 - Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
-- Organized and traveled to oversea exhibitions with for an extended period of time
-- Scheduled meetings and visited oversea clients to collaborate on future products
+- Organized and traveled to overseas exhibitions with the team for an extended period of time
+- Scheduled meetings and visited overseas clients to collaborate on future products
 
-**Sales Associate**, Auspring Co. Ltd., 2014 - 2018
-- Gathered data concerning customers, competitors, and market trends
-- Developed problem solving skills to solve conflicts between distributor and client
-- Increased overseas market sales by 30% for Functional Masterbatch products
+**Sales Associate**, Auspring Co. Ltd., Oct 2014 - May 2018
+- Researched data concerning customers, competitors, and market trends
+- Developed creative problem-solving skills to provide solutions between distributor and customer
+- Increased overseas market sales growth by 30% for Functional Masterbatch products
+
+**Web Analytics Developer**, Lexus Signals, Sept 2012 - Sept 2014
+- Improved website’s SEO, increasing overall website traffic by 300% and conversion rate by 70%
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education
-**Data Science**, Lambda School, 2019
+**Apprenticeship in Data Science**, Lambda School, May 2019 - Feb 2020
 <br>
 Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science and Machine Learning.
 
-**B.A. in Environmental Policy**, UC San Diego, 2012
+**B.A. in Environmental Policy**, UC San Diego, Jan 2009 - Aug 2012
 
 <span class="fa fa-heart about-icon"></span>
 Passion for exploring nature and challenging myself: Completed the Tough Mudder 10km on Bear mountain, climbed the highest mountain in Northeast Asia and swam across a natural open lake of 1.8 miles.

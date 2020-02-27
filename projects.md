@@ -11,42 +11,42 @@ Visit [my GitHub](https://github.com/gyhou/) for more source code.
 <tbody>
 <tr>
     <td id="yelp_dataset"><center>
-      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="assets/whereami_predict.png"></a>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src=""></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
     <td id="yelp_dataset"><center>
-      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="https://uvreatio.sirv.com/Images/Shrynk.png"></a>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="g"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
 </tr>
 <tr>
     <td id="yelp_dataset"><center>
-      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/yagmail/raw/master/docs/_static/icon.png"></a>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src=""></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
-    <td id="neural_complete"><center>
-      <a><img title="neural_complete" alt="neural_complete" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/neural_complete/raw/master/images/demo.gif"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>neural_complete</b></div>
+    <td id="yelp_dataset"><center>
+      <a><img title="yelp_dataset" alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src=""></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
 </tr>
 <tr>
-    <td id="textsearch"><center>
-      <a><img alt="textsearch" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/textsearch/master/resources/tslogo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>textsearch</b></div>
+    <td id="yelp_dataset"><center>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src=""></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
-    <td id="nostalgia"><center>
-      <a href="https://github.com/nostalgia-dev/nostalgia"><img alt="nostalgia" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/nostalgia-dev/nostalgia-dev.github.io/master/assets/images/biglogo.png"></a>
-      <div><a class="repo-description" href="https://github.com/nostalgia-dev/nostalgia">Utilize your personal data like Google!</a></div>
+    <td id="diabetes-manager"><center>
+      <a href="https://github.com/Build-Week-Diabetes-Manager"><img alt="nostalgia" width="180" height="90" style="object-fit: contain;" src="img/diabetes%20manager%20homepage.png"></a>
+      <div><a class="repo-description" href="https://github.com/Build-Week-Diabetes-Manager">Help diabetic patients track and predict blood glucose levels!</a></div>
     </center></td>
 </tr>
 <tr>
     <td id="CHSI-Dash"><center>
-      <a><img alt="CHSI-Dash" width="180" height="180" style="object-fit: contain;" src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/CHSI-Choropleth-Map.gif"></a>
+      <a><img alt="CHSI-Dash" width="180" height="180" style="object-fit: contain;" src="https://github.com/gyhou/CHSI-Dash/raw/master/pictures/02.gif"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>CHSI-Dash</b></div>
       <a class="repo-description"></a>
     </center></td>

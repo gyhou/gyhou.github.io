@@ -51,7 +51,7 @@ Visit [my GitHub](https://github.com/gyhou/) for more source code.
       <a class="repo-description"></a>
     </center></td>
     <td id="tennis"><center>
-      <a><img alt="tennis" width="180" height="180" style="object-fit: contain;" src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png"></a>
+      <a><img alt="tennis" width="180" height="180" style="object-fit: contain;" src="https://github.com/gyhou/tennis/raw/master/img/ATP_age.png"></a>
       <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>tennis</b></div>
       <a class="repo-description"></a>
     </center></td>

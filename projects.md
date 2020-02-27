@@ -45,26 +45,14 @@ Visit [my GitHub](https://github.com/gyhou/) for more source code.
     </center></td>
 </tr>
 <tr>
-    <td id="sky"><center>
-      <a><img alt="sky" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/sky/master/resources/skylogo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>sky</b></div>
+    <td id="CHSI-Dash"><center>
+      <a><img alt="CHSI-Dash" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/CHSI-Choropleth-Map.gif"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>CHSI-Dash</b></div>
       <a class="repo-description"></a>
     </center></td>
-    <td id="sysdm"><center>
-      <a><img alt="sysdm" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/sysdm/master/demo.gif"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>sysdm</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-</tr>
-<tr>
-    <td id="gittyleaks"><center>
-      <a><img alt="gittyleaks" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/gittyleaks/raw/master/resources/gittyleaks.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>gittyleaks</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-    <td id="brightml"><center>
-      <a><img alt="brightml" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/brightml/raw/master/resources/logo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>brightml</b></div>
+    <td id="tennis"><center>
+      <a><img alt="tennis" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png")></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>tennis</b></div>
       <a class="repo-description"></a>
     </center></td>
 </tr>

@@ -11,5 +11,5 @@ I just published [Three Kings in Tennis](https://link.medium.com/FCvjpknrSX) on 
 
 While sports generally favors the fit and young athletes, it does not hold true for tennis any longer. There is a clear trend that the age of professional tennis players has gotten older in recent decades. Particularly, Roger Federer, now 37 years old was still able to miraculously won 3 more Grand Slam titles last couple of years after his previous major title at 32 years old.
 
-![grand slam_ATP age](https://github.com/gyhou/gyhou.github.io/blob/master/img/ATP_age.png)
-![grand slam_WTA age](https://github.com/gyhou/gyhou.github.io/blob/master/img/WTA_age.png)
+![grand slam_ATP age](https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png)
+![grand slam_WTA age](https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/WTA_age.png)

@@ -10,21 +10,21 @@ Visit [my GitHub](https://github.com/gyhou/) for more source code.
 <table id="repo-table">
 <tbody>
 <tr>
-    <td id="whereami"><center>
-      <a><img alt="whereami" width="180" height="90" style="object-fit: contain;" src="assets/whereami_predict.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
+    <td id="yelp_dataset"><center>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="assets/whereami_predict.png"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
-    <td id="shrynk"><center>
-      <a><img alt="shrynk" width="180" height="90" style="object-fit: contain;" src="https://uvreatio.sirv.com/Images/Shrynk.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>shrynk</b></div>
+    <td id="yelp_dataset"><center>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="https://uvreatio.sirv.com/Images/Shrynk.png"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
 </tr>
 <tr>
-    <td id="yagmail"><center>
-      <a><img alt="yagmail" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/yagmail/raw/master/docs/_static/icon.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yagmail</b></div>
+    <td id="yelp_dataset"><center>
+      <a><img alt="yelp_dataset" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/yagmail/raw/master/docs/_static/icon.png"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>yelp_dataset</b></div>
       <a class="repo-description"></a>
     </center></td>
     <td id="neural_complete"><center>

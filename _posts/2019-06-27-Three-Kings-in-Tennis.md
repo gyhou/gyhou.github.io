@@ -14,5 +14,4 @@ While sports generally favors the fit and young athletes, it does not hold true 
 ![grand slam_ATP age](https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png)
 ![grand slam_WTA age](https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/WTA_age.png)
 
-<img src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png" width=429>
-<img src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/WTA_age.png" width=429>
+<img src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/ATP_age.png" width=429><img src="https://raw.githubusercontent.com/gyhou/gyhou.github.io/master/img/WTA_age.png" width=429>

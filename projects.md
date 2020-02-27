@@ -40,7 +40,7 @@ Visit [my GitHub](https://github.com/gyhou/) for more source code.
       <a class="repo-description"></a>
     </center></td>
     <td id="diabetes-manager"><center>
-      <a href="https://github.com/Build-Week-Diabetes-Manager"><img alt="nostalgia" width="180" height="90" style="object-fit: contain;" src="img/diabetes%20manager%20homepage.png"></a>
+      <a href="https://github.com/Build-Week-Diabetes-Manager"><img alt="diabetes-manager" width="180" height="90" style="object-fit: contain;" src="img/diabetes-manager.png"></a>
       <div><a class="repo-description" href="https://github.com/Build-Week-Diabetes-Manager">Help diabetic patients track and predict blood glucose levels!</a></div>
     </center></td>
 </tr>

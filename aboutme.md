@@ -16,13 +16,13 @@ Data Scientist and a fast learner with years of experience in project work and i
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
-**Marketing Sales Representative**, Nam Liong Enterprise Co. Ltd., May 2018 - May 2019
+**Marketing Sales Representative**, Nam Liong Enterprise, May 2018 - May 2019
 - Strategized with apparel industry experts and manufacturer experts to design customer’s product
 - Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
 - Organized and traveled to overseas exhibitions with the team for an extended period of time
 - Scheduled meetings and visited overseas clients to collaborate on future products
 
-**Sales Associate**, Auspring Co. Ltd., Oct 2014 - May 2018
+**Sales Associate**, Auspring, Oct 2014 - May 2018
 - Researched data concerning customers, competitors, and market trends
 - Developed creative problem-solving skills to provide solutions between distributor and customer
 - Increased overseas market sales growth by 30% for Functional Masterbatch products

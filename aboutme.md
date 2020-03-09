@@ -10,9 +10,11 @@ Data Scientist and a fast learner with years of experience in project work and i
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
-**Experienced**: SQL, Scala, Spark, AWS, MongoDB, Flask, Tableau, Applied Mathematics, ETL, Computer Vision
+**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL, Scala
 <br>
-**Advanced**: Data Analysis, Python, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, Data Visualization, Natural Language Processing (NLP), Predictive Analytics, TensorFlow, Pytorch, Keras
+**Frameworks**: TensorFlow, Pytorch, Keras, Spark, AWS Cloud, Flask, Tableau, MongoDB, PostgreSQL
+<br>
+**Skills**: Data Analysis, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, ETL, Data Visualization, Natural Language Processing, Predictive Analytics, Applied Mathematics, Computer Vision
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience

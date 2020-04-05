@@ -6,7 +6,7 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data Scientist and a fast learner with years of experience in project work and interest in providing analytics and development competency for a company. Projects include exploratory data analysis, machine learning, and data visualization to solve challenging industrial problems and provide meaningful insights.
+Data Science Engineer with years of project experience adept at collecting and analyzing large datasets, developing models, and performing data management tasks. Seeking a Data Science Engineer role with a company that uses these skills to solve challenging problems and provide meaningful insights and solutions.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills

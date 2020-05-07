@@ -9,7 +9,7 @@ comments: false
 ---
 [Github Link](https://github.com/gyhou/consumer_complaints)
 
-[Notebook Link[(https://github.com/gyhou/consumer_complaints/blob/master/Consumer_Complaints_Project.ipynb)
+[Notebook Link](https://github.com/gyhou/consumer_complaints/blob/master/Consumer_Complaints_Project.ipynb)
 
 The federal government provides a way for consumers to file complaints against companies regarding different financial products, such as payment problems with a credit card or debt collection tactics. This project will be about identifying the number of complaints filed and how they're spread across different companies. 
 

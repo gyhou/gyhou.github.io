@@ -11,6 +11,7 @@ Data Science Engineer with years of project experience adept at collecting and a
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
 **Certifications**: [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS), [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url)
+<br>
 **Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL, Scala
 <br>
 **Frameworks**: TensorFlow, Pytorch, Keras, Spark, AWS Cloud, Flask, Tableau, MongoDB, PostgreSQL, Cassandra

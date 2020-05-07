@@ -6,19 +6,20 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data Science Engineer with years of project experience adept at collecting and analyzing large datasets, developing models, and performing data management tasks. Seeking a Data Science Engineer role with a company that uses these skills to solve challenging problems and provide meaningful insights and solutions.
+Data Science Engineer with years of project experience adept at collecting and analyzing large datasets, developing models, and performing data warehouse management tasks. Seeking a Data Science Engineer role with a company that uses these skills to solve challenging problems and provide meaningful insights and solutions.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
+**Certifications**: [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS), [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url)
 **Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL, Scala
 <br>
-**Frameworks**: TensorFlow, Pytorch, Keras, Spark, AWS Cloud, Flask, Tableau, MongoDB, PostgreSQL
+**Frameworks**: TensorFlow, Pytorch, Keras, Spark, AWS Cloud, Flask, Tableau, MongoDB, PostgreSQL, Cassandra
 <br>
-**Skills**: Data Analysis, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, ETL, Data Visualization, Natural Language Processing, Predictive Analytics, Applied Mathematics, Computer Vision
+**Skills**: Data Analysis, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, ETL, Data Visualization, Natural Language Processing, Predictive Analytics, Applied Mathematics
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
-**Marketing Sales Representative**, Nam Liong Enterprise, 2018 - 2019
+**Marketing Sales Representative**, Union Line Textile, 2018 - 2019
 - Strategized with apparel industry experts and manufacturer experts to design customer’s product
 - Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
 - Organized and traveled to overseas exhibitions with the team for an extended period of time

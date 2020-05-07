@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: George Hou - Data Scientist
+subtitle: George Hou - Data Science Engineer
 css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
@@ -38,9 +38,9 @@ Data Science Engineer with years of project experience adept at collecting and a
 ## Education
 **Apprenticeship in Data Science**, Lambda School, 2019 - 2020
 <br>
-Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science and Machine Learning.
+Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science Engineer and Machine Learning.
 
-**B.A. in Environmental Policy**, UC San Diego, 2009 - 2012
+**B.A. in Environmental Science**, UC San Diego, 2009 - 2012
 
 <span class="fa fa-heart about-icon"></span>
 Passion for exploring nature and challenging myself: Completed the Tough Mudder 10km on Bear mountain, climbed the highest mountain in Northeast Asia and swam across a natural open lake of 1.8 miles.

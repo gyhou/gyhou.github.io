@@ -23,7 +23,7 @@ The purpose of this project is to understand what, where and how each user is li
 ![](https://github.com/gyhou/Data-Modeling-with-Cassandra/blob/master/image_event_datafile_new.jpg?raw=true)
 
 ## Data Modeling
-- Created the Apache Cassandra tables for ***three queries***
+- Created unique tables for each query
 - The CREATE TABLE statement includes the appropriate datatype and unique names
 - Table names reflect the query and the result it will generate
 - Created one table per query, following the rules of Apache Cassandra

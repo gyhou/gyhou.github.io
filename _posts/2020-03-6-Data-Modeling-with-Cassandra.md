@@ -20,7 +20,7 @@ The purpose of this project is to understand what, where and how each user is li
 - Combine all csv files from `event_data` into a denormalized dataset, `event_datafile_new.csv`
 - The image below is a screenshot of what the denormalized data appear like
 
-![](https://github.com/gyhou/Data-Modeling-with-Cassandra/blob/master/image_event_datafile_new.jpg?raw=true)
+![](img/image_event_datafile_new.jpg)
 
 ## Data Modeling
 - Created unique tables for each query

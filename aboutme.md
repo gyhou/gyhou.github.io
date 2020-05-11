@@ -6,17 +6,17 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data Science Engineer with years of project experience adept at collecting and analyzing large datasets, developing models, and performing data warehouse management tasks. Seeking a Data Science Engineer role with a company that uses these skills to solve challenging problems and provide meaningful insights and solutions.
+Data Science Engineer with years of project experience adept at data collection, data transformation, feature extraction, developing models, and performing data warehouse management tasks through cloud providers.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
-**Certifications**: [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS), [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url)
+**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn, JSON, CSV), SQL, Scala
 <br>
-**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL, Scala
+**Frameworks**: AWS (Redshift, RDS, S3, EMR), Spark, PostgreSQL, Cassandra, Airflow, MongoDB, Flask, Tableau, TensorFlow, Pytorch, Keras
 <br>
-**Frameworks**: TensorFlow, Pytorch, Keras, Spark, AWS Cloud, Flask, Tableau, MongoDB, PostgreSQL, Cassandra
+**Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Feature Engineering, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Applied Mathematics, Deeping Learning
 <br>
-**Skills**: Data Analysis, Machine Learning, Statistics, Data Mining, Big Data, Deeping Learning, ETL, Data Visualization, Natural Language Processing, Predictive Analytics, Applied Mathematics
+**Certifications**: [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url), [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS)
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience

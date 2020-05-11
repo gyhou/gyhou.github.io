@@ -4,7 +4,7 @@ title: Data Modeling with Cassandra
 subtitle: Query data with partition key 
 gh-repo: gyhou/Data-Modeling-with-Cassandra
 gh-badge: [star, fork, follow]
-tags: [SQL, NoSQL, Data Modeling, Jupyter, cassandra]
+tags: [SQL, NoSQL, Data Modeling, Jupyter, Cassandra]
 comments: true
 ---
 The purpose of this project is to understand what, where and how each user is listening to the songs in Sparkify dataset. The analytial goals is to find out what is making the free tier users switch to paid tier and why paid users are downgrading to free tier through their listening habits.

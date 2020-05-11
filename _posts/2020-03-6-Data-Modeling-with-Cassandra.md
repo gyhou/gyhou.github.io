@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Modeling with Cassandra
-subtitle: Using AWS to perform ETL
+subtitle: Query data with partition key 
 gh-repo: gyhou/Data-Modeling-with-Cassandra
 gh-badge: [star, fork, follow]
 tags: [SQL, NoSQL, Data Modeling, Jupyter, cassandra]

@@ -37,5 +37,5 @@ We have 1 fact table (songplays), and 4 dimension tables (users, songs, artists,
 - Using Apache Airflow to automate and monitor to data warehouse ETL pipelines
 - Build a dynamic, reusable, and allow easy backfills ETL pipeline through data quality checks
 
-![](img/songplay-dag.png)
+![](/img/songplay-dag.png)
 

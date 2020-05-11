@@ -26,7 +26,7 @@ Data Science Engineer with years of project experience adept at data collection,
 - Organized and traveled to overseas exhibitions with the team for an extended period of time
 - Scheduled meetings and visited overseas clients to collaborate on future products
 
-**Sales Associate**, Auspring, 2014 - 2018
+**Industrial B2B Sales Associate**, Auspring, 2014 - 2018
 - Researched data concerning customers, competitors, and market trends
 - Developed creative problem-solving skills to provide solutions between distributor and customer
 - Increased overseas market sales growth by 30% for Functional Masterbatch products
@@ -36,7 +36,7 @@ Data Science Engineer with years of project experience adept at data collection,
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education
-**Apprenticeship in Data Science**, Lambda School, 2019 - 2020
+**Apprenticeship in Data Science Engineering**, Lambda School, 2019 - 2020
 <br>
 Computer Science & Software Engineering Academy that provides an immersive hands-on curriculum with a track focused on Data Science Engineer and Machine Learning.
 

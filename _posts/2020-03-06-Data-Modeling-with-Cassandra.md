@@ -7,7 +7,10 @@ gh-badge: [star, fork, follow]
 tags: [SQL, NoSQL, Data Modeling, Jupyter, Cassandra]
 comments: true
 ---
-The purpose of this project is to understand what, where and how each user is listening to the songs in Sparkify dataset. The analytial goals is to find out what is making the free tier users switch to paid tier and why paid users are downgrading to free tier through their listening habits.
+Using Python to create an ETL pipeline for data modeling with Apache Cassandra.
+
+## Summary
+Create an Apache Cassandra database which can create queries on song play data for exploratory analysis.
 
 1. Processed the csv files from `event_data` to create a single csv file that will be used for Apache Casssandra tables
 1. Querying data through Apache Cassandra

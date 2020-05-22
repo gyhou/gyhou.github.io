@@ -14,7 +14,7 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 <br>
 **Programming Expertise**: Python (Pandas, Scikit-Learn), SQL (CTE, windows function)
 <br>
-**Frameworks**: AWS (Redshift, RDS, S3, EMR, Cloud9), Spark, Postgres, Airflow, MongoDB (NoSQL), Cassandra, Flask, Tableau, Snowflake, Git
+**Frameworks**: AWS (Sagemaker, Redshift, RDS, S3, EMR, Cloud9), Spark, Postgres, MySQL, Airflow, MongoDB (NoSQL), Cassandra, Flask, Tableau, Snowflake, Git, Django
 <br>
 **Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Scripting
 
@@ -26,7 +26,7 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 - Generated analytical data & reports of student engagement to senior leadership
 
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
-- Strategized with apparel industry & manufacturer experts to design client’s product
+- Strategized with apparel industry and manufacturer experts to design product
 - Increased client’s sample request by 100% and reduced time on inquiries by 400%
 - Scheduled meetings and visited overseas clients to collaborate on future products
 

@@ -6,38 +6,38 @@ css: "/css/aboutme.css"
 ---
 <span class="fa fa-user about-icon"></span>
 ## Summary
-Data Science Engineer with years of project experience adept at data collection, data transformation, feature extraction, developing models, and performing data warehouse management tasks through cloud providers.
+Data Science Engineer with years of project experience adept at data ingestion, data transformation, feature extraction, developing models, and performing data warehouse management tasks through cloud providers.
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
 **Certifications**: [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url), [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS)
 <br>
-**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL (CTE, windows function)
+**Programming Expertise**: Python (Pandas, Scikit-Learn), SQL (CTE, windows function)
 <br>
-**Frameworks**: AWS (Redshift, RDS, S3, EMR), Spark, Postgres, Cassandra, Airflow, MongoDB, Flask, Tableau, Snowflake
+**Frameworks**: AWS (Redshift, RDS, S3, EMR, Cloud9), Spark, Postgres, Airflow, MongoDB (NoSQL), Cassandra, Flask, Tableau, Snowflake, Git
 <br>
-**Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Scripting, Git
+**Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Scripting
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
 **Data Engineering Team Lead - AWS Platform**, Lambda School, 2020 - Current
-- Initiated data operations process through the collection and transformation of raw data into Snowflake
-- Performed data quality checks to measure quality, integrity, accuracy, and completeness
-- Generated analytical data & reports of student/course engagement for presentation to senior leadership
+<br>
+- Initiated ETL process through the collection and transformation of data into Snowflake
+- Performed data quality checks to measure integrity, accuracy, and completeness
+- Generated analytical reports of student engagement for presentation to senior leadership
 
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
-- Strategized with apparel industry experts and manufacturer experts to design customer’s product
-- Increased client’s sample request by 100% and reduced time spent on sample inquiries by 400%
-- Organized and traveled to overseas exhibitions with the team for an extended period of time
+- Strategized with apparel industry and manufacturer experts to design client’s product
+- Increased client’s sample request by 100% and reduced time on sample inquiries by 400%
 - Scheduled meetings and visited overseas clients to collaborate on future products
 
 **Industrial B2B Sales Associate**, Auspring, 2014 - 2018
 - Researched data concerning customers, competitors, and market trends
-- Developed creative problem-solving skills to provide solutions between distributor and customer
-- Increased overseas market sales growth by 30% for Functional Masterbatch products
+- Developed problem-solving skills to provide solutions to textile clients
+- Increased overseas sales growth by 30% for Functional Masterbatch products
 
 **Web Analytics Developer**, Lexus Signals, 2012 - 2014
-- Improved website’s SEO, increasing overall website traffic by 300% and conversion rate by 70%
+- Improved website’s SEO, increasing website traffic by 300% and conversion rate by 70%
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education

@@ -26,7 +26,7 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 - Generated analytical data & reports of student engagement to senior leadership
 
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
-- Strategized with apparel industry and manufacturer experts to design product
+- Strategized with apparel industry and manufacturer experts to design products
 - Increased client’s sample request by 100% and reduced time on inquiries by 400%
 - Scheduled meetings and visited overseas clients to collaborate on future products
 

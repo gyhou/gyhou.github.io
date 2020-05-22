@@ -21,14 +21,13 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
 **Data Engineering Team Lead - AWS Platform**, Lambda School, 2020 - Current
-<br>
-- Initiated ETL process through the collection and transformation of data into Snowflake
+- Initiated ETL through the collection and transformation of data into Snowflake
 - Performed data quality checks to measure integrity, accuracy, and completeness
-- Generated analytical reports of student engagement for presentation to senior leadership
+- Generated analytical data & reports of student engagement to senior leadership
 
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
-- Strategized with apparel industry and manufacturer experts to design client’s product
-- Increased client’s sample request by 100% and reduced time on sample inquiries by 400%
+- Strategized with apparel industry & manufacturer experts to design client’s product
+- Increased client’s sample request by 100% and reduced time on inquiries by 400%
 - Scheduled meetings and visited overseas clients to collaborate on future products
 
 **Industrial B2B Sales Associate**, Auspring, 2014 - 2018
@@ -37,7 +36,7 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 - Increased overseas sales growth by 30% for Functional Masterbatch products
 
 **Web Analytics Developer**, Lexus Signals, 2012 - 2014
-- Improved website’s SEO, increasing website traffic by 300% and conversion rate by 70%
+- Improved website’s SEO, increasing traffic by 300% and conversion rate by 70%
 
 <span class="fa fa-graduation-cap about-icon"></span>
 ## Education

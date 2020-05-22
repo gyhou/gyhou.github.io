@@ -10,19 +10,24 @@ Data Science Engineer with years of project experience adept at data collection,
 
 <span class="fa fa-code about-icon"></span>
 ## Technical Skills
-**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn, JSON, CSV), SQL, Scala
-<br>
-**Frameworks**: AWS (Redshift, RDS, S3, EMR), Spark, PostgreSQL, Cassandra, Airflow, MongoDB, Flask, Tableau, TensorFlow, Pytorch, Keras
-<br>
-**Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Feature Engineering, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Applied Mathematics, Deeping Learning
-<br>
 **Certifications**: [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/23aa7aa9-348b-4e55-beae-947288a90b6e/public_url), [Udacity Data Engineer Nanodegree](https://graduation.udacity.com/confirm/E4SMCKGS)
+<br>
+**Programming Expertise**: Python (NumPy, Pandas, Scikit-Learn), SQL (CTE, windows function)
+<br>
+**Frameworks**: AWS (Redshift, RDS, S3, EMR), Spark, Postgres, Cassandra, Airflow, MongoDB, Flask, Tableau, Snowflake
+<br>
+**Skills**: Data Mining, Data Warehousing, Data Wrangling, ETL, Data Pipelines, Big Data, Data Analysis, Business Intelligence, Data Visualization, Machine Learning, Statistics, Natural Language Processing, Predictive Analytics, Scripting, Git
 
 <span class="fa fa-briefcase about-icon"></span>
 ## Work Experience
+**Data Engineering Team Lead - AWS Platform**, Lambda School, 2020 - Current
+- Initiated data operations process through the collection and transformation of raw data into Snowflake
+- Performed data quality checks to measure quality, integrity, accuracy, and completeness
+- Generated analytical data & reports of student/course engagement for presentation to senior leadership
+
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
 - Strategized with apparel industry experts and manufacturer experts to design customer’s product
-- Designed a new product management system to improve client’s experience resulting in sample requests increase of 100% and reduced time spent on samples inquiries by 400%
+- Increased client’s sample request by 100% and reduced time spent on sample inquiries by 400%
 - Organized and traveled to overseas exhibitions with the team for an extended period of time
 - Scheduled meetings and visited overseas clients to collaborate on future products
 

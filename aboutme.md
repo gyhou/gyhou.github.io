@@ -24,6 +24,7 @@ Data Science Engineer with years of project experience adept at data ingestion, 
 - Initiated ETL through the collection and transformation of data into Snowflake
 - Performed data quality checks to measure integrity, accuracy, and completeness
 - Generated analytical data & reports of student engagement to senior leadership
+- Led 4 teams of developers and engineers through AWS services and environments
 
 **Marketing Sales Representative**, Union Line Textile, 2018 - 2019
 - Strategized with apparel industry and manufacturer experts to design products

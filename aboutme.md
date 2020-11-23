@@ -55,6 +55,7 @@ Passion for exploring nature and challenging myself: Completed the Tough Mudder 
 <p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch.</p>
 <p>I'm a data scientist looking for full-time opportunities. If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
+<!---
 <form action="https://formspree.io/mgekrkbr" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
   <div class="row">
@@ -69,8 +70,7 @@ Passion for exploring nature and challenging myself: Completed the Tough Mudder 
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
-  
   <div style="font-size: 12px; margin: -10px 0 10px;">Please do not use this form to send me advertisements or spam.</div>
-  
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
   </form>
+-->

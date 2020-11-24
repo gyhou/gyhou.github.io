@@ -50,9 +50,8 @@ Computer Science & Software Engineering Academy that provides an immersive hands
 <span class="fa fa-heart about-icon"></span>
 Passion for exploring nature and challenging myself: Completed the Tough Mudder 10km on Bear mountain, climbed the highest mountain in Northeast Asia and swam across a natural open lake of 1.8 miles.
 
-<span class="fa fa-envelope about-icon"></span>
-
 <!---
+<span class="fa fa-envelope about-icon"></span>
 # Contact
 <p>You can <a href="mailto:georgehou2008@gmail.com?subject=Hello from gyhou.com">email me</a> or find me <a href="https://twitter.com/gyhou">on Twitter</a> if you want to get in touch.</p>
 <p>I'm a data science engineer looking for full-time opportunities. If you'd like to set up a meeting with me, <a href="https://calendly.com/gyhou/meeting">click here to schedule a meeting</a> based on your availability.</p>
